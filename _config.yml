@@ -1,0 +1,43 @@
+permalink: /:year/:month/:day/:title.html
+paginate: 10
+markdown: redcarpet
+
+# 作者信息
+author: 
+  name: 耗子也疯狂
+  email: tan.yang86@gmail.com
+  link: http://CrazyMouse.github.io
+  weibo: http://weibo.com/u/1625347474
+  github: http://github.com/CrazyMouse
+
+# 站点信息
+title: 耗子也疯狂的博客 
+description: 耗子也疯狂的博客
+url: http://CrazyMouse.github.io
+rss_url: /pages/atom.xml
+
+# gavatar头像及Favicon
+gavatar: /public/upload/gavatar/gavatar.png
+favicon: /public/upload/gavatar/favicon.ico
+
+# google analytics 设置
+ga:
+  id: UA-50475200-1
+  url: CrazyMouse.github.io
+
+# disqus 设置
+disqus:
+  shortname: 
+
+# 主题设置，自动激活某个标签
+active: 技术
+
+# 首页除了最新文章外显示分类
+cates: 
+  - Idea
+
+# 中文本地化
+locals:
+  tags: 标签
+  about: 关于
+  newest: 最新文章
