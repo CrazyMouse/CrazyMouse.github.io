@@ -17,7 +17,7 @@ url: http://CrazyMouse.github.io
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
-gavatar: /public/upload/head/head.png.png
+gavatar: /public/upload/head/head.png
 favicon: /public/upload/gavatar/favicon.ico
 
 # google analytics 设置
